@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileUpload.API", "FileUpload.API\FileUpload.API.csproj", "{5CBAD866-80C4-468C-84BC-8EAF7C8FC0BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileUpload.Application", "FileUpload.Application\FileUpload.Application.csproj", "{987D0081-F287-4031-AC8F-64309F93CCB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CBAD866-80C4-468C-84BC-8EAF7C8FC0BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CBAD866-80C4-468C-84BC-8EAF7C8FC0BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CBAD866-80C4-468C-84BC-8EAF7C8FC0BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CBAD866-80C4-468C-84BC-8EAF7C8FC0BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{987D0081-F287-4031-AC8F-64309F93CCB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{987D0081-F287-4031-AC8F-64309F93CCB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{987D0081-F287-4031-AC8F-64309F93CCB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{987D0081-F287-4031-AC8F-64309F93CCB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
